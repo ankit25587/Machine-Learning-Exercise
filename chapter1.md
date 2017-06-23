@@ -41,6 +41,59 @@ msg_success = "Exactly! The correlation is very weak though."
 test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 ```
 
+
+
+-- type:VideoExercise lang:python xp:50 skills:2 key:71df44ce72
+## <<<New Exercise>>>
+
+
+*** =video_link
+//player.vimeo.com/video/154783078
+--- type:MultipleChoiceExercise lang:python xp:50 skills:2 key:6bba3fd5bd
+## What is 2+2?
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{python}
+
+```
+
+*** =sct
+```{python}
+
+```
+
+--- type:NormalExercise lang:python xp:100 skills:2 key:3f589d3b3a
+## <<<New Exercise>>>
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{python}
+
+```
+
+*** =sample_code
+```{python}
+
+```
+
+*** =solution
+```{python}
+
+```
+
+*** =sct
+```{python}
+
+```
 --- type:NormalExercise lang:python xp:100 skills:1 key:d34829813d
 ## Plot the movies yourself
 
